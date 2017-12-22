@@ -1,0 +1,6 @@
+
+rust/target/
+**/*.rs.bk
+rust/Cargo.lock
+js/*.wasm
+js/*.wasm.min

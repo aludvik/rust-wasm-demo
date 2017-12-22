@@ -1,0 +1,10 @@
+[package]
+name = "wasm-demo"
+version = "0.1.0"
+authors = ["Adam M Ludvik <adam.m.ludvik@gmail.com>"]
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
